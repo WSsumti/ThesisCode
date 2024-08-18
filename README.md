@@ -25,3 +25,5 @@ Next, please input the data. The sample data will be placed in the ***data*** fo
 There is another way to input the data. The left panel contains the text area for inputting texts. The model also classifies the text input in the text area. 
 
 Finally, the results will be displayed in 2 tables. The first table illustrates the probabilities of 7 emotions for each row. The second table illustrates the label of each row
+# Note:
+The report and the video are stored in this [link](https://drive.google.com/drive/folders/1GucSh8c4J6cgqT-683ICTOHJr9AxxHjp?usp=sharing)
