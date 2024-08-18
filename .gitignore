@@ -9,3 +9,4 @@ test_sv.py
 *.ipynb
 test_visobertALRL.py
 __pycache__/
+thesis_model/*.pth
