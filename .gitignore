@@ -5,7 +5,7 @@ phobert_lstm_test_sv.py
 phobert_lstm_train_for_thesis.py
 result_compare.py
 test_sv.py
-*.txt
+test_sv.txt
 *.ipynb
 test_visobertALRL.py
 __pycache__/
